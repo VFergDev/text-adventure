@@ -131,7 +131,7 @@ const textNodes = [
         text: 'After leaving the merchant you start to fell tired and stumble upon a small town next to a dark looking castle.',
         media: {
             type: 'image',
-            source: '/images/man-sideprofile.png',
+            source: '/images/town.png',
         },
         options: [
             {
@@ -153,7 +153,7 @@ const textNodes = [
         text: 'You are so tired that you fall asleep while exploring the castle and are killed by some terrible monster in your sleep. - The end',
         media: {
             type: 'image',
-            source: '/images/woman.png',
+            source: '/images/monster.png',
         },
         options: [
             {
@@ -167,7 +167,7 @@ const textNodes = [
         text: 'Without any money to rent a room you break into the nearest inn and fall asleep. After a few hours of sleep the owner of the inn finds you and has the town gard lock you in a cell... at least you have a place to sleep - The end',
         media: {
             type: 'image',
-            source: '/images/young-man.png',
+            source: '/images/inn.png',
         },
         options: [
             {
@@ -178,10 +178,10 @@ const textNodes = [
     },
     {
         id: 6,
-        text: 'You are so tired that you fall asleep while exploring the castle and are killed by some terrible monster in your sleep. - The end',
+        text: 'You found a stable with some hay to sleep on. You were found by the owners; they offered you hot soup and a warm fire. You all became lifelong friends. You never discovered how you got there or what happened to you. - the end',
         media: {
             type: 'image',
-            source: '/images/young-woman.png',
+            source: '/images/stable.png',
         },
         options: [
             {
